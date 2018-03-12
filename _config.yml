@@ -50,18 +50,18 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#addLinkHere", text: "Join Brainhack Finland 2018"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#addLinkHere", text: "Join Brainhack Finland 2018"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "<typeout>"
+eventDate: "2nd May 2018"
+typeoutTextValues: '"Brainhack Global 2-6 May 2018", "Brainhack Finland 2 May 2018 Aalto University", "What is it that we do not know about the brain?", "Speakers: Riitta Hari, Lauri Parkkonen"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#addlinks", text: "Join Brainhack Finland 2018"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
