@@ -6,7 +6,8 @@
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <!-- {% assign colWidth = 12 | divided_by: forloop.length %} -->
+                {% assign colWidth = 12 | divided_by: 3 %}
                 <div class="col-md-{{ colWidth }} col-xs-6">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
