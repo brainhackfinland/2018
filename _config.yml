@@ -64,6 +64,16 @@ heroButtons:
  - {link: "#addlinks", text: "Join Brainhack Finland 2018"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
+# Guests block
+guestTitle: "Invited guests"
+guestBlock:
+ - {title: "Riitta Hari", image: "conference.jpg", text: "Text for Riitta"}
+ - {title: "Lauri Parkkonen", image: "conference.jpg", text: "Text for Lauri"}
+ - {title: "Riitta Hari", image: "conference.jpg", text: "Text for Riitta"}
+ - {title: "Lauri Parkkonen", image: "conference.jpg", text: "Text for Lauri"}
+ - {title: "Riitta Hari", image: "conference.jpg", text: "Text for Riitta"}
+ - {title: "Lauri Parkkonen", image: "conference.jpg", text: "Text for Lauri"}
+
 # About Block
 aboutTitle: "About Brainhack Finland 2018"
 aboutBlock:
