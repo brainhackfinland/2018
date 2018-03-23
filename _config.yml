@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "<typeout>"
+heroTitle: "Brainhack Finland <typeout>"
 eventDate: "2nd May 2018"
 typeoutTextValues: '"2/May/2018", "Aalto University", "Dept. of Neuroscience and Biomedical Engineering"'
 typeoutFallback: "Brainhack Finland"
