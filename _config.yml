@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.png"
 heroTitle: "Brainhack Finland <typeout>"
 eventDate: "2nd May 2018"
-typeoutTextValues: '"2/May/2018", "Aalto University", "Dept. of Neuroscience and Biomedical Engineering"'
+typeoutTextValues: '"2/May/2018", "Aalto University", ""'
 typeoutFallback: "Brainhack Finland"
 heroButtons:
  - {link: "#addlinks", text: "Join Brainhack Finland 2018"}
