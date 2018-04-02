@@ -77,12 +77,10 @@ guestBlock:
 # About Block
 aboutTitle: "About Brainhack Finland 2018"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Share Ideas", image: "conference.jpg", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
+ - {title: "Build Projects", image: "workshop.jpg", text: "Try the presented tools on provided data or bring your own tools/data!" }
+ - {title: "Meet the Community", image: "hackathon.jpg", text: "Brainhack Finland is a speed-dating event between neuroscientists and computer scientists in Finland." }
+ - {title: "Learn Tools", image: "conference.jpg", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

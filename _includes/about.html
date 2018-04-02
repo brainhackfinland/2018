@@ -3,15 +3,15 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
+						<img style="float:right;margin:10px;" src="/2018/img/brainhack_venn.gif" alt="brainhack venn diagram"> Brainhack Finland 2018 is part of the Global Brainhack 2018, with simultaneous hackathons in over 30 sites across the globe. The goal of the hackathon is to bring together researchers with disparate backgrounds to collaborate on open science projects in neuroimaging. Finland has a strong history when it comes to neuroscience as well as computer science, however the two communities might not be aware of recent developments and potential mutual interests. For the Finnish edition of Brainhack 2018 the idea is to set up a speed-dating event between neuroscientists and computer scientists to foster new collaborations and to promote new tools to be tested on brain imaging data.
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 <!-- {% assign colWidth = 12 | divided_by: forloop.length %} -->
-                {% assign colWidth = 12 | divided_by: 3 %}
+                {% assign colWidth = 12 | divided_by: 4 %}
                 <div class="col-md-{{ colWidth }} col-xs-6">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
-						Brainhack Finland 2018 is part of the Global Brainhack 2018, with simultaneous hackathons in over 30 sites across the globe. The goal of the hackathon is to bring together researchers with disparate backgrounds to collaborate on open science projects in neuroimaging. Finland has a strong history when it comes to neuroscience as well as computer science, however the two communities might not be aware of recent developments and potential mutual interests. For the Finnish edition of Brainhack 2018 the idea is to set up a speed-dating event between neuroscientists and computer scientists to foster new collaborations and to promote new tools to be tested on brain imaging data.
                         <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
                         <p>{{ about.text }}</p>
                     </div>
