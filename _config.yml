@@ -77,10 +77,10 @@ guestBlock:
 # About Block
 aboutTitle: "About Brainhack Finland 2018"
 aboutBlock:
- - {title: "Share Ideas", image: "conference.jpg", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
- - {title: "Build Projects", image: "workshop.jpg", text: "Try the presented tools on provided data or bring your own tools/data!" }
- - {title: "Meet the Community", image: "hackathon.jpg", text: "Brainhack Finland is a speed-dating event between neuroscientists and computer scientists in Finland." }
- - {title: "Learn Tools", image: "conference.jpg", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
+ - {title: "Share Ideas", image: "share.png", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
+ - {title: "Build Projects", image: "code.png", text: "Try the presented tools on provided data or bring your own tools/data!" }
+ - {title: "Meet the Community", image: "community.png", text: "Brainhack Finland is a speed-dating event between neuroscientists and computer scientists in Finland." }
+ - {title: "Learn Tools", image: "learn.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
