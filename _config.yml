@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "#addLinkHere", text: "Join Brainhack Finland 2018"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 rightNavigationButtons:
- - {link: "#addLinkHere", text: "Join Brainhack Finland 2018"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 
 # Hero Block
 heroImage: "hero.png"
@@ -61,8 +61,7 @@ eventDate: "2nd May 2018"
 typeoutTextValues: '"2/May/2018", "Aalto University", ""'
 typeoutFallback: "Brainhack Finland"
 heroButtons:
- - {link: "#addlinks", text: "Join Brainhack Finland 2018"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 
 # About Block
 aboutTitle: "About Brainhack Finland 2018"
@@ -82,7 +81,7 @@ guestBlock:
 # Guests2 block
 guest2Title: "Ignite talks – Invited gueats"
 guest2Block:
- - {title: "Alex Jung", image: "conference.jpg", text: "Prof. Aarto Klami is an expert on statistical machine learning and artificial intelligence. His main focus is in Bayesian modeling of complex data collections. He will talk about how well 'brain reading' works nowadays and what novel approaches could be used in studying the brain and its functions."}
+ - {title: "Alex Jung", image: "jung.jpg", text: "Prof. Aarto Klami is an expert on statistical machine learning and artificial intelligence. His main focus is in Bayesian modeling of complex data collections. He will talk about how well 'brain reading' works nowadays and what novel approaches could be used in studying the brain and its functions."}
  - {title: "Mikko Kivela", image: "hari.jpg", text: ""}
  - {title: "Kai Puolamaki|", image: "parkkonen.jpg", text: "Prof. Lauri Parkkonen has been developing instrumentation and analysis tools for MEG since early 1990's and has an impressive knowledge of the most intricate MEG details. He will share his views on the current limitations of brain imaging methods and in which direction neuroimaging should be going next"}
 
