@@ -278,9 +278,9 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Hackathon projects"
 hackathonRows:
- - {title: "Multiplex networks", image: "", details: "More details coming soon"}
- - {title: "SideR", image: "", details: ""}
- - {title: "Stan", image: "", details: ""}
+ - {title: "Multiplex networks", image: "muxnet.png", details: "More details coming soon"}
+ - {title: "SideR", image: "sideR.png", details: "More details coming soon"}
+ - {title: "Stan", image: "stan.png", details: "More details coming soon"}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
