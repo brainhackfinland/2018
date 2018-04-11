@@ -51,10 +51,9 @@
                                                     {% if session_speaker == speaker.id %}
                                                     <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
 													
-                                                    <p class="speaker-name" style="float:left">{{ speaker.name }} {{ speaker.surname }}
-                                                        <span class="speaker-position">{{ speaker.company }}</span>
+                                                    <p class="speaker-name">{{ speaker.name }}
+                                                        <span class="speaker-position">{{ speaker.title }}</span>
                                                     </p>
-													<div>{{ speaker.title }}</div>
                                                     </li>
                                                     {% endif %}
                                                 {% endfor %}    
