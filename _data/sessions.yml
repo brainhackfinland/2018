@@ -14,7 +14,7 @@
   title: "Unconference"
   service: true
   description: "This session will give us different insights on current approaches and limitations in neuroscience"
-  speakers: [1, 2, 3]
+  speakers: [3, 4]
 -
   id: 002
   title: "Building Cloud-powered wearable Apps"
