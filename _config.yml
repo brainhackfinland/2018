@@ -200,12 +200,16 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.brainhack.org/global2018", text: "Brainhack Global 2018"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Organizers and contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "https://twitter.com/eglerean", text: "Enrico Glerean (chair)"}
+   - {link: "https://twitter.com/tijh", text: "Tommi Himberg"}
+   - {link: "https://twitter.com/wmvanvliet", text: "Marijn van Vliet"}
+   - {link: "https://twitter.com/abc_aalto", text: "Aalto Brain Centre (sponsor)"}
+   - {link: "mailto:brainhackfinland@gmail.com", text: "brainhackfinland@gmail.com"}
  -
   title: "FAQ"
   links:
