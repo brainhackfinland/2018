@@ -71,18 +71,21 @@ aboutBlock:
  - {title: "Learn Tools", image: "learn.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
 
 # Guests block
-guestTitle: "Unconference talks – Invited gueats"
+guestTitle: "Unconference talks"
 guestBlock:
  - {title: "Riitta Hari", image: "hari.jpg", text: "Prof. Em. Riitta Hari has pioneered the use of magnetoencephalography for studying sensory processing and motor control in healthy subjects and patient groups, with a main interest in the dynamics of human brain functions in naturalistic conditions. She will challenge our views during the unconference by sharing with us the unsolved questions of neuroscience."}
  - {title: "Lauri Parkkonen", image: "parkkonen.jpg", text: "Prof. Lauri Parkkonen has been developing instrumentation and analysis tools for MEG since early 1990's and has an impressive knowledge of the most intricate MEG details. He will share his views on the current limitations of brain imaging methods and in which direction neuroimaging should be going next"}
- - {title: "Aarto Klami", image: "conference.jpg", text: "Prof. Aarto Klami is an expert on statistical machine learning and artificial intelligence. His main focus is in Bayesian modeling of complex data collections. He will talk about how well 'brain reading' works nowadays and what novel approaches could be used in studying the brain and its functions."}
+ - {title: "Aarto Klami", image: "klami.jpg", text: "Prof. Aarto Klami is an expert on statistical machine learning and artificial intelligence. His main focus is in Bayesian modeling of complex data collections. He will talk about how well 'brain reading' works nowadays and what novel approaches could be used in studying the brain and its functions."}
 
 # Guests2 block
-guest2Title: "Ignite talks – Invited gueats"
+guest2Title: "Ignite talks"
 guest2Block:
- - {title: "Alex Jung", image: "jung.jpg", text: "Prof. Aarto Klami is an expert on statistical machine learning and artificial intelligence. His main focus is in Bayesian modeling of complex data collections. He will talk about how well 'brain reading' works nowadays and what novel approaches could be used in studying the brain and its functions."}
- - {title: "Mikko Kivela", image: "hari.jpg", text: ""}
- - {title: "Kai Puolamaki|", image: "parkkonen.jpg", text: "Prof. Lauri Parkkonen has been developing instrumentation and analysis tools for MEG since early 1990's and has an impressive knowledge of the most intricate MEG details. He will share his views on the current limitations of brain imaging methods and in which direction neuroimaging should be going next"}
+ - {title: "Enrico Glerean", image: "glerean.jpg", text: ""} 
+ - {title: "Mikko Kivela", image: "kivela.jpg", text: ""}
+ - {title: "Anna Alexandrou", image: "alexandrou.jpg", text: ""}
+ - {title: "Kai Puolamaki", image: "puolamaki.png", text: ""}
+ - {title: "Juho Piironen", image: "piironen.jpg", text: ""}
+ - {title: "Marijn van Vliet", image: "vliet.jpg", text: ""}
 
 
 # Statistic Block
