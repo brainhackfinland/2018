@@ -22,7 +22,7 @@
     - {
         startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [500]
+        sessionIds: [503]
     }
 - 
   date: "2018-05-02"

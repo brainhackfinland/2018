@@ -30,3 +30,8 @@
   title: "Hackathon wrap up"
   description: "Small informal presentations from each hackathon project"
   service: true
+-
+  id: 005
+  title: "Brainhack never stops"
+  description: "Who wants to stay is free to do so. Brainhack global continues for 4 more days with broadcasts from other brainhack locations."
+  service: true
