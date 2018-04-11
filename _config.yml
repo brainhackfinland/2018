@@ -31,9 +31,9 @@ organizerLink: ""
 # Head
 metaKeywords: "brainhack, finland, espoo, Aalto"
 twitterAccount: "@brainhackfinland"
-socialImageSrcGooglePlus: "bhf.png"
-socialImageSrcTwitter: "bhf.png"
-socialImageSrcFacebook: "bhf.png"
+socialImageSrcGooglePlus: "/img/bhf.png"
+socialImageSrcTwitter: "/img/bhf.png"
+socialImageSrcFacebook: "/img/bhf.png"
 
 # Documents
 c4pUrl: ""
