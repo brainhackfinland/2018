@@ -1,13 +1,14 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Registration with free coffee and pulla"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "The best time to start talking with others"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch break"
   place: "Dining room"
+  description: "Free lunch only for registered participants"
   service: true
 -
   id: 001
@@ -23,4 +24,9 @@
   id: 003
   title: "Hackathon"
   description: "Ideas, methods, and datasets presented in the ignite talks will be hacked together by smaller groups of participants."
+  service: true
+-
+  id: 004
+  title: "Hackathon wrap up"
+  description: "Small informal presentations from each hackathon project"
   service: true
