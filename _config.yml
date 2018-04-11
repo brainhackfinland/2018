@@ -58,7 +58,7 @@ heroImage: "hero.png"
 heroTitle: "Brainhack Finland <typeout>"
 eventDate: "2nd May 2018"
 typeoutTextValues: '"2/May/2018", "Aalto University", ""'
-typeoutFallback: "Brainhack Finland"
+typeoutFallback: ""
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 
