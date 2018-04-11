@@ -80,11 +80,12 @@ guestBlock:
 # Guests2 block
 guest2Title: "Ignite talks"
 guest2Block:
+ - {title: "Anna Alexandrou", image: "alexandrou.jpg", text: ""}
  - {title: "Enrico Glerean", image: "glerean.jpg", text: ""} 
  - {title: "Mikko Kivela", image: "kivela.jpg", text: ""}
- - {title: "Anna Alexandrou", image: "alexandrou.jpg", text: ""}
- - {title: "Kai Puolamaki", image: "puolamaki.png", text: ""}
+ - {title: "Emilia Oikarinen", image: "oikarinen.jpg", text: ""}
  - {title: "Juho Piironen", image: "piironen.jpg", text: ""}
+ - {title: "Kai Puolamaki", image: "puolamaki.png", text: ""}
  - {title: "Marijn van Vliet", image: "vliet.jpg", text: ""}
 
 
