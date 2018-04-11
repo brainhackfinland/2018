@@ -12,7 +12,7 @@ exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Brainhack Finland 2018"
 email: "brainhackfinland@gmail.com"
-description: "Brainhack Finland 2.May.2018 - part of Brainhack Global 2-6 May 2018. Organized by Enrico Glerean and Aalto Brain Centre."
+description: "Brainhack Finland 2.May.2018 - part of Brainhack Global 2-6 May 2018. Organized by Aalto Brain Centre, chaired by Enrico Glerean."
 baseurl: "/2018"
 url: "https://brainhackfinland.github.io"
 permalink: "/blog/:title"
