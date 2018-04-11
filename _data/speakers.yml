@@ -23,7 +23,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: 11
+  id: 17
   name: "Enrico Glerean (Aalto University)"
   title: "Brain imaging: open datasets and open challenges"
   thumbnailUrl: glerean.jpg
@@ -58,7 +58,7 @@
   id: 15
   name: "Marijn van Vliet (Aalto University)"
   title: "Monkey-patching linear models: boosting performance by injecting prior knowledge"
-  thumbnailUrl: vanvliet.jpg
+  thumbnailUrl: vliet.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}            

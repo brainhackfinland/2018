@@ -18,7 +18,7 @@
   id: 002
   title: "Ignite Talks"
   description: "Ignite talks are 5 minutes (exactly 5 minutes!) presentations where each presenter will pitch the audience for a method or an idea to be used in the hackathon part"
-  speakers: [12, 13, 14, 15, 16, 11]
+  speakers: [12, 13, 14, 15, 16, 17]
 -
   id: 003
   title: "Hackathon"
