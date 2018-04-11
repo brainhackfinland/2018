@@ -23,14 +23,6 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: 17
-  name: "Enrico Glerean (Aalto University)"
-  title: "Brain imaging: open datasets and open challenges"
-  thumbnailUrl: glerean.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}    
-- 
   id: 12
   name: "prof. Mikko Kivelä (Aalto University)"
   title: "The unseen in brain imaging"
@@ -70,3 +62,11 @@
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}  
+- 
+  id: 17
+  name: "Enrico Glerean (Aalto University)"
+  title: "Brain imaging: open datasets and open challenges"
+  thumbnailUrl: glerean.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}    
