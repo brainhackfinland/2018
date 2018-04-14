@@ -212,7 +212,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "http://www.brainhack.org/global2018/codeofconduct.html", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
