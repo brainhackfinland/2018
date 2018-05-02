@@ -50,10 +50,12 @@ navigationLinks:
  - {permalink: "/#hackathon", text: "Hackathon"}
 bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
- - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
+# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
+ - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
 rightNavigationButtons:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
- - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
+# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
+ - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
 
 # Hero Block
 heroImage: "hero.png"
@@ -63,7 +65,8 @@ typeoutTextValues: '"2/May/2018", "Aalto University", ""'
 typeoutFallback: ""
 heroButtons:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
- - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
+# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
+ - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
 
 # About Block
 aboutTitle: "About Brainhack Finland 2018"
