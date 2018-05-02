@@ -13,7 +13,7 @@
 -
   id: 001
   title: "Unconference"
-  description: "This session will give us different insights on current approaches and limitations in neuroscience"
+  description: "This session will give us different insights on current approaches and limitations in neuroscience. <a href=\"https://twitter.com/abc_aalto/status/991572160169689088\">You can find a link to the recorded stream here.</a>"
   speakers: [1, 2, 3]
 -
   id: 002
